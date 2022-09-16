@@ -49,7 +49,7 @@
     <img
         alt="css"
         src="https://img.shields.io/badge/css-04196E?style=for-the-badge&logo=css3&logoColor=white"/>
-    &nbsp;
+    <br />
     <img
         alt="Scss"
         src="https://img.shields.io/badge/SCSS-0831D4?style=for-the-badge&logo=sass&logoColor=white"/>
@@ -61,16 +61,16 @@
     <img
         alt="React Native"
         src="https://img.shields.io/badge/REACT NATIVE-0831D4?style=for-the-badge&logo=react&logoColor=white"/>
-    &nbsp;
-    <img
-        alt="node.js"
-        src="https://img.shields.io/badge/Node JS-0938ED?style=for-the-badge&logo=node.js&logoColor=white"/>
-    &nbsp;
+    <br />
     <img
         alt="MySQL"
-        src="https://img.shields.io/badge/MySQL-0264D6?style=for-the-badge&logo=mysql&logoColor=white"/>
+        src="https://img.shields.io/badge/MySQL-0938ED?style=for-the-badge&logo=mysql&logoColor=white"/>
     &nbsp;
     <img
         alt="git"
-        src="https://img.shields.io/badge/git-0264D6?style=for-the-badge&logo=git&logoColor=white"/>
+        src="https://img.shields.io/badge/git-0938ED?style=for-the-badge&logo=git&logoColor=white"/>
+    <br>
+    <img
+        alt="node.js"
+        src="https://img.shields.io/badge/Node JS-0264D6?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
