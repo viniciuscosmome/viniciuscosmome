@@ -36,11 +36,11 @@
 <p align="center">
     <img
         alt="TypeScript"
-        src="https://img.shields.io/badge/TS-04196E?style=for-the-badge&logo=typescript&logoColor=white"/>
+        src="https://img.shields.io/badge/TypeScript-04196E?style=for-the-badge&logo=typescript&logoColor=white"/>
     &nbsp;
     <img
         alt="JavaScript"
-        src="https://img.shields.io/badge/JS-04196E?style=for-the-badge&logo=javascript&logoColor=white"/>
+        src="https://img.shields.io/badge/JavaScript-04196E?style=for-the-badge&logo=javascript&logoColor=white"/>
     &nbsp;
     <img
         alt="csharp"
