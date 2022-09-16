@@ -8,13 +8,13 @@
     <img src="https://komarev.com/ghpvc/?username=viniciuscosmome&label=Profile%20views&color=0f6ee8&style=flat-square" alt="viniciuscosmome" />
     <br />
     <br />
-    <a href="https://instagram.com/viniciuscosmo.me">
+    <a href="https://www.linkedin.com/in/vinicius-cosmo-me/">
         <img alt="linkedin - viniciuscosmo.me" src="https://img.shields.io/badge/LinkedIn-0366d6?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://instagram.com/viniciuscosmo.me">
         <img alt="intagram - viniciuscosmo.me" src="https://img.shields.io/badge/Instagram-D40831?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="https://instagram.com/viniciuscosmo.me">
+    <a href="https://viniciuscosmo.me/">
         <img alt="About me - viniciuscosmo.me" src="https://img.shields.io/badge/viniciuscosmo-080809?style=for-the-badge&logo=About.me&logoColor=white"/>
     </a>
 </p>
