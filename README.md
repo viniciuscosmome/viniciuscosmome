@@ -1,8 +1,6 @@
-<p align="center">
-    <h1 align="center">
-        <img alt="viniciuscosmo.me" width="100%" src="https://img.shields.io/badge/Vinicius Cosmo-080809?style=for-the-badge&logo=github&logoColor=white"/>
-    </h1>
-</p>
+<h1 align="center">
+    <img alt="viniciuscosmo.me" width="100%" src="https://img.shields.io/badge/Vinicius Cosmo-080809?style=for-the-badge&logo=github&logoColor=white"/>
+</h1>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=viniciuscosmome&label=Profile%20views&color=0f6ee8&style=flat-square" alt="viniciuscosmome" />
@@ -21,17 +19,13 @@
 <br />
 
 <p align="center">
-    <img alt="Vinicius Cosmo's GitHub Stats" width="350px" src="https://github-readme-stats.vercel.app/api?username=viniciuscosmome&show_icons=false&count_private=true&bg_color=0000&title_color=0366d6&text_color=777&border_color=0000&hide_title=true&hide_rank=true">
-    <img alt="Top Images" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosmome&hide=html,css&layout=&hide_title=true&bg_color=0000&title_color=0366d6&text_color=777&border_color=0000">
+    <img alt="Vinicius Cosmo's GitHub Stats" width="372.88px" height="170px" src="https://github-readme-stats.vercel.app/api?username=viniciuscosmome&show_icons=false&count_private=true&bg_color=0000&title_color=0366d6&text_color=777&border_color=0000&hide_title=false&hide_rank=true">
+    <img alt="Top Languages" width="312px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosmome&hide=html&layout=&hide_title=false&bg_color=0000&title_color=0366d6&text_color=777&border_color=0000">
 </p>
 
-<br /><br />
-
-<p align="center">
-    ☕ Brazil
-</p>
-<hr />
 <br />
+
+<h2 align="center">:coffee::brazil:</h2>
 
 <p align="center">
     <img
