@@ -20,7 +20,7 @@
 
 <p align="center">
     <img alt="Vinicius Cosmo's GitHub Stats" width="372.88px" height="170px" src="https://github-readme-stats.vercel.app/api?username=viniciuscosmome&show_icons=false&count_private=true&bg_color=0000&title_color=0366d6&text_color=777&border_color=0000&hide_title=false&hide_rank=true">
-    <img alt="Top Languages" width="312px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosmome&hide=&layout=compact&hide_title=false&bg_color=0000&title_color=0366d6&text_color=777&border_color=0000">
+    <img alt="Top Languages" width="312px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosmome&hide=html,css&layout=compact&hide_title=false&bg_color=0000&title_color=0366d6&text_color=777&border_color=0000">
 </p>
 
 <br />
