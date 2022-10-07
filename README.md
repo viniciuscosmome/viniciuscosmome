@@ -23,15 +23,6 @@
     <img alt="Top Languages" width="312px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosmome&hide=html,css&layout=compact&hide_title=false&bg_color=0000&title_color=0366d6&text_color=777&border_color=0000">
 </p>
 
-<p align="center">
-    <a href="https://github.com/programeiro/snaketech-backend" target="_blank" rel="noreferrer">
-        <img alt="Snaketech Backend" width="312px" height="170px" src="https://github-readme-stats.vercel.app/api/pin/?username=Programeiros&repo=snaketech-backend&bg_color=0d1117&border_color=0000&title_color=0366d6&text_color=777">
-    </a>
-    <a href="https://github.com/viniciuscosmome/casos-de-estudo">
-        <img alt="Casos de estudo" width="312px" height="170px" src="https://github-readme-stats.vercel.app/api/pin/?username=viniciuscosmome&repo=casos-de-estudo&bg_color=0d1117&border_color=0000&title_color=0366d6&text_color=777">
-    </a>
-</p>
-
 <h3 align="center">:coffee::brazil:</h3>
 
 <p align="center">
