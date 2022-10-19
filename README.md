@@ -45,8 +45,6 @@
 </p>
 
 <br />
-<br />
-<br />
 
 <h2 align="center">
     :coffee: 2020
