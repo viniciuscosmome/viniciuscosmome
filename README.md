@@ -7,8 +7,9 @@
 </h1>
 
 <br />
+<br />
 
-<p align="left">
+<p align="center">
     <img
         alt="node.js"
         src="https://img.shields.io/badge/Node JS-0264D6?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -22,28 +23,29 @@
     <br/>
     <img
         alt="TypeScript"
-        src="https://img.shields.io/badge/TypeScript-04196E?style=for-the-badge&logo=typescript&logoColor=white"/>
+        src="https://img.shields.io/badge/TypeScript-0831D4?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img
         alt="JavaScript"
-        src="https://img.shields.io/badge/JavaScript-04196E?style=for-the-badge&logo=javascript&logoColor=white"/>
+        src="https://img.shields.io/badge/JavaScript-0831D4?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img
         alt="css"
-        src="https://img.shields.io/badge/css-04196E?style=for-the-badge&logo=css3&logoColor=white"/>
+        src="https://img.shields.io/badge/css-0831D4?style=for-the-badge&logo=css3&logoColor=white"/>
     <br/>
     <img
         alt="Scss"
-        src="https://img.shields.io/badge/SCSS-0831D4?style=for-the-badge&logo=sass&logoColor=white"/>
+        src="https://img.shields.io/badge/SCSS-04196E?style=for-the-badge&logo=sass&logoColor=white"/>
     <img
         alt="Next Js"
-        src="https://img.shields.io/badge/Next JS-0831D4?style=for-the-badge&logo=next.js&logoColor=white"/>
+        src="https://img.shields.io/badge/Next JS-04196E?style=for-the-badge&logo=next.js&logoColor=white"/>
     <img
         alt="React Native"
-        src="https://img.shields.io/badge/REACT NATIVE-0831D4?style=for-the-badge&logo=react&logoColor=white"/>
+        src="https://img.shields.io/badge/REACT NATIVE-04196E?style=for-the-badge&logo=react&logoColor=white"/>
     <img
         alt="vue-js"
-        src="https://img.shields.io/badge/vue js-0831D4?style=for-the-badge&logo=vue.js&logoColor=white"/>
+        src="https://img.shields.io/badge/vue js-04196E?style=for-the-badge&logo=vue.js&logoColor=white"/>
 </p>
 
+<br />
 <br />
 
 <h2 align="center">
