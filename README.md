@@ -45,6 +45,14 @@
         src="https://img.shields.io/badge/vue js-04196E?style=for-the-badge&logo=vue.js&logoColor=white"/>
 </p>
 
+<br/>
+
+<p align="center">
+    <img
+        alt="stats"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosmome&layout=compact&hide=html,css&custom_title=Vinicius%20Cosmo&bg_color=0000&border_color=0000&theme=github_dark" />
+</p>
+
 <br />
 <br />
 
