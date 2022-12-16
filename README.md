@@ -11,15 +11,28 @@
 
 <p align="center">
     <img
-        alt="node.js"
-        src="https://img.shields.io/badge/Node JS-0264D6?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <br/>
+        alt="stats"
+        width="40%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosmome&layout=compact&hide=html,css&custom_title=Vinicius%20Cosmo&bg_color=0000&border_color=0000&theme=github_dark" />
     <img
-        alt="MySQL"
-        src="https://img.shields.io/badge/MySQL-0938ED?style=for-the-badge&logo=mysql&logoColor=white"/>
+        alt="commits"
+        width="55%"
+        src="https://github-readme-stats.vercel.app/api?username=viniciuscosmome&custom_title=&bg_color=0000&border_color=0000&theme=github_dark" />
+</p>
+
+<br />
+
+<p align="center">
     <img
         alt="git"
-        src="https://img.shields.io/badge/git-0938ED?style=for-the-badge&logo=git&logoColor=white"/>
+        src="https://img.shields.io/badge/git-0264D6?style=for-the-badge&logo=git&logoColor=white"/>
+    <br/>
+    <img
+        alt="SQL"
+        src="https://img.shields.io/badge/SQL-0938ED?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img
+        alt="node.js"
+        src="https://img.shields.io/badge/Node JS-0938ED?style=for-the-badge&logo=node.js&logoColor=white"/>
     <br/>
     <img
         alt="TypeScript"
@@ -46,17 +59,6 @@
 </p>
 
 <br/>
-
-<p align="center">
-    <img
-        alt="stats"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosmome&layout=compact&hide=html,css&custom_title=Vinicius%20Cosmo&bg_color=0000&border_color=0000&theme=github_dark" />
-    <img
-        alt="commits"
-        src="https://github-readme-stats.vercel.app/api?username=viniciuscosmome&custom_title=&bg_color=0000&border_color=0000&theme=github_dark" />
-</p>
-
-<br />
 <br />
 
 <h2 align="center">
