@@ -41,6 +41,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/RoutinelyOrganization/routinely-api">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RoutinelyOrganization&repo=routinely-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-routinely-api">
   </a>
+  <a href="https://github.com/loryblu/loryblu-api">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=loryblu&repo=loryblu-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-lorybly-api">
+  </a>
   <a href="https://github.com/Minnemi/minnemi-front">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Minnemi&repo=minnemi-front&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-minnemi-front">
   </a>
