@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <p align="center">
   <a href="https://github.com/DenverCoder1">
     <img src="https://readme-typing-svg.demolab.com/?lines=Vinicius%20Cosmo&font=Fira%20Code&center=true&width=440&height=45&color=70a5fd&vCenter=true&pause=60000&size=22" />
 </p>
+-->
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0366d6?labelColor=0366d6&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cosmo-me)
 [![about-me](https://img.shields.io/badge/-viniciuscosmo.me-DE2C46?style=flat&logo=About.me&logoColor=white)](https://viniciuscosmo.me)
 
-<h2>📘 Open Source Projects</h2>
+<h2>📂 Open Source Projects</h2>
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <a href="https://github.com/viniciuscosmome?tab=repositories&sort=stargazers">
@@ -42,14 +42,17 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h2>💻 GitHub Profile Stats</h2>
+<h2>:octocat: Profile Stats</h2>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![linkedin](https://github-readme-stats.vercel.app/api?username=viniciuscosmome&custom_title=Cosmo%20profile%20stats&bg_color=1a1b27&border_color=0000&theme=github_dark&text_color=70a5fd&title_color=70a5fd)](https://www.linkedin.com/in/vinicius-cosmo-me/)
-
-<h2>🛠️ My Favorite Tools</h2>
+<img alt="Vinicius Cosmo" src="https://github-readme-stats.vercel.app/api?username=viniciuscosmome&custom_title=Cosmo%20profile%20stats&bg_color=1a1b27&border_color=0000&theme=github_dark&text_color=70a5fd&title_color=70a5fd" />
+<!--
+ <img alt="Vinicius Cosmo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosmome&layout=compact&custom_title=Cosmo&bg_color=1a1b27&border_color=0000&theme=github_dark&text_color=70a5fd&title_color=70a5fd&hide=html,css" />
+-->
+<!--
+<h2>🛠️ My Favorite Tools</h2> -->
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
+<!--
 <h3>👨‍💻 Programming and Markup Languages</h3>
 <p>
   <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
@@ -72,8 +75,6 @@ Here are some ideas to get you started:
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
-  <!-- <img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"> -->
-  <!-- <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"> -->
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
 </p>
 
@@ -105,6 +106,8 @@ Here are some ideas to get you started:
 </p>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+-->
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!--
 [![linkedin](https://github-readme-activity-graph.vercel.app/graph?username=viniciuscosmome&custom_title=Cosmo's%20contribution%20graph&hide_border=true&theme=tokyo-night)](https://www.linkedin.com/in/vinicius-cosmo-me/)
+-->
