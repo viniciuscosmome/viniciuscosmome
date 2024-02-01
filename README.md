@@ -19,17 +19,21 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.demolab.com/?lines=Vinicius%20Cosmo&font=Fira%20Code&center=true&width=440&height=45&color=70a5fd&vCenter=true&pause=60000&size=22" />
 </p>
 -->
-
+<!--
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0366d6?labelColor=0366d6&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cosmo-me)
 [![about-me](https://img.shields.io/badge/-viniciuscosmo.me-DE2C46?style=flat&logo=About.me&logoColor=white)](https://viniciuscosmo.me)
 
-<h2>📂 Open Source Projects</h2>
+
+<h2>📂 See all projects</h2>
+-->
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+
 <a href="https://github.com/viniciuscosmome?tab=repositories&sort=stargazers">
   <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
 </a>
 
+<!--
 <p align="left">
   <a href="https://github.com/RoutinelyOrganization/routinely-api">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RoutinelyOrganization&repo=routinely-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-routinely-api">
@@ -41,14 +45,36 @@ Here are some ideas to get you started:
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Minnemi&repo=minnemi-front&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-minnemi-front">
   </a>
 </p>
+-->
 
 <h2>:octocat: Profile Stats</h2>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img alt="Vinicius Cosmo" src="https://github-readme-stats.vercel.app/api?username=viniciuscosmome&custom_title=Cosmo%20profile%20stats&bg_color=1a1b27&border_color=0000&theme=github_dark&text_color=70a5fd&title_color=70a5fd" />
 <!--
- <img alt="Vinicius Cosmo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosmome&layout=compact&custom_title=Cosmo&bg_color=1a1b27&border_color=0000&theme=github_dark&text_color=70a5fd&title_color=70a5fd&hide=html,css" />
+<img alt="Vinicius Cosmo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosmome&layout=compact&custom_title=Cosmo&bg_color=1a1b27&border_color=0000&theme=github_dark&text_color=70a5fd&title_color=70a5fd&hide=html,css" />
 -->
+
+<h3>:books: Tools</h3>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-ff0000.svg?logo=redis&logoColor=f2f2f2)
+
+![Docker](https://img.shields.io/badge/Docker-0078d7.svg?logo=docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![Dbeaver](https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
+
 <!--
 <h2>🛠️ My Favorite Tools</h2> -->
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
