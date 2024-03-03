@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosmome&hide_progress=true&&custom_title=Top%20langs&bg_color=1a1b27&border_color=0000&theme=github_dark&text_color=70a5fd&title_color=70a5fd)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosmome&hide_progress=true&&custom_title=Top%20langs&bg_color=1a1b27&border_color=0000&theme=github_dark&text_color=70a5fd&title_color=70a5fd) -->
 
 ## :octocat: Profile Stats
 
