@@ -1,7 +1,7 @@
 # Vinicius Cosmo
 
 - 🔭 I’m currently working on [![LoryBlue](https://custom-icon-badges.demolab.com/badge/-LoryBlu-1F222E?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/loryblu/loryblu-api)
-- 🌱 I’m currently learning ![Redis](https://img.shields.io/badge/Ruby-ff2020.svg?logo=ruby&logoColor=f2f2f2)
+- 🌱 I’m currently learning ![Kotlin](https://img.shields.io/badge/Kotlin-ff2020.svg?logo=kotlin&logoColor=f2f2f2)
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/Vinicius%20Cosmo-007ACC.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cosmo-me/)
 - 👯 I'm looking to collaborate on web apps
 - 💬 Ask me about JavaScript
