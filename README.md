@@ -1,19 +1,19 @@
 # Vinicius Cosmo
 
-- 🔭 I’m currently working on [![LoryBlue](https://custom-icon-badges.demolab.com/badge/-LoryBlu-1F222E?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/loryblu/loryblu-api)
-- 🌱 I’m currently learning ![Ruby](https://img.shields.io/badge/Ruby-ff2020.svg?logo=ruby&logoColor=f2f2f2)
+<!-- - 🔭 I’m currently working on [![LoryBlue](https://custom-icon-badges.demolab.com/badge/-LoryBlu-1F222E?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/loryblu/loryblu-api) -->
+<!-- - 🌱 I’m currently learning ![c-Sharp](https://img.shields.io/badge/C%20Sharp-ff2020.svg?logo=csharp&logoColor=f2f2f2) -->
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/Vinicius%20Cosmo-007ACC.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cosmo-me/)
 - 👯 I'm looking to collaborate on web apps
-- 💬 Ask me about JavaScript
+<!-- - 💬 Ask me about JavaScript -->
 
 [![All projects](https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/viniciuscosmome?tab=repositories&sort=stargazers)
 
 ## :books: Tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
+![C-Sharp](https://img.shields.io/badge/C%20Sharp-316192.svg?logo=c&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
@@ -27,6 +27,7 @@
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
+<!-- ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosmome&hide_progress=true&&custom_title=Top%20langs&bg_color=1a1b27&border_color=0000&theme=github_dark&text_color=70a5fd&title_color=70a5fd) -->
 
 ## :octocat: Profile Stats
